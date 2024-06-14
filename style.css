@@ -283,8 +283,8 @@ section{
 
 .img-hero img{
     position: relative;
-    width: 300px;
-    height: auto;
+    width: 500px;
+    height: 500px;
     left:-45px;
     z-index: 8;
 }
