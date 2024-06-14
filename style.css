@@ -29,7 +29,7 @@ a{
 body{
     font-family: 'Poppins', sans-serif;
     background: var(--bg-color);
-    overflow-x: relative;
+    overflow-x: hidden;
 }
 
 header{
@@ -283,7 +283,7 @@ section{
 
 .img-hero img{
     position: relative;
-    width: 500px;
+    width: 300px;
     height: auto;
     left:-45px;
     z-index: 8;
